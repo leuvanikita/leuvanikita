@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikita Leuva</h1>
 <h3 align="center">A passionate DevOps learner from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leuvanikita" alt="leuvanikita" /></a> </p>
-
 - 🌱 I’m currently learning **AWS**
 
 - 🤝 I’m looking for help with **DevOps**
 
 - 💬 Ask me about **DevOps**
-
-- 📫 How to reach me **https://www.linkedin.com/in/nikita-leuva/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
